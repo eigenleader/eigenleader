@@ -1,4 +1,4 @@
-##Maximizing the Smallest Eigenvalue of Grounded Laplacian Matrix
+###Maximizing the Smallest Eigenvalue of Grounded Laplacian Matrix
 
 Julia code for the article "Maximizing the Smallest Eigenvalue of Grounded Laplacian Matrix"
 
